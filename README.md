@@ -1,5 +1,7 @@
 class Solution {
 public:
+
+
     void studentGrade(int marks) {
     int marks = 95;
     if( marks >= 90){
