@@ -1,10 +1,10 @@
+    #include<bits/stdc++.h>
+    using namespace std;
 
     class Solution {
-    public:
-
-
+         public:
     void studentGrade(int marks) {
-    int marks = 95;
+    
     if( marks >= 90){
         cout<<"Grade  A "<<endl;
     }
@@ -25,6 +25,6 @@
     };
 
     int main(){
-    solution s;
-    s.studentGrade(95);
+        Solution s;
+        s.studentGrade(95);
     }
