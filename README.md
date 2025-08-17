@@ -1,5 +1,5 @@
-class Solution {
-public:
+    class Solution {
+    public:
 
 
     void studentGrade(int marks) {
@@ -21,9 +21,9 @@ public:
         cout<<" fail";
     }
     }
-};
+    };
 
-int main(){
+    int main(){
     solution s;
     s.studentGrade(95);
-}
+    }
